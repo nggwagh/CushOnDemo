@@ -11,6 +11,7 @@
 #import "MBProgressHUD.h"
 
 //test
+//test master
 @interface MainViewController : UIViewController
 {
     NSMutableArray *dealArray;
