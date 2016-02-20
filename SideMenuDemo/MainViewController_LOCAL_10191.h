@@ -12,7 +12,6 @@
 
 //test
 //test master
-///test for development baranch
 @interface MainViewController : UIViewController
 {
     NSMutableArray *dealArray;
